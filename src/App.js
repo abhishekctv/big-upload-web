@@ -20,7 +20,7 @@ class App extends Component{
               uploaderID="image-upload"
               dropTargetID="myDropTarget"
               filetypes={['db', 'zip', 'bin',"jpg", "JPG", "png", "PNG", "mp4", "MP4", "mkv", "deb"]}
-              maxFileSize={512000000}
+              maxFileSize={1024000000}
               fileAccept="*/*"
               fileAddedMessage="Started!"
               completedMessage="Complete!"
