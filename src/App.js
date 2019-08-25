@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import ReactResumableJs from 'react-resumable-js';
+
+import ReactResumableJs from './components/resumable';
+
 import './App.css';
 
 class App extends Component{
