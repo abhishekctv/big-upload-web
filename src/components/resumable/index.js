@@ -286,7 +286,7 @@ export default class ReactResumableJs extends React.Component {
                 </div>
 
                 {fileList}
-                {startButton}
+                {/* {startButton} */}
                 {pauseButton}
                 {cancelButton}
 
