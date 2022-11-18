@@ -7,7 +7,7 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-resumable-js": "^1.1.24",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "resumablejs": "^1.1.0"
   },
   "scripts": {
